@@ -1,3 +1,6 @@
+
+![mastering_solana](https://github.com/user-attachments/assets/eda0adf8-f899-429c-a8fe-0dfd7ec6a73e)
+
 # Mastering Solana
 Mastering Solana: the Solana Runtime is an online book for developers, enthusiasts who want to understand the Solana blockchain, and its execution environment.
 
